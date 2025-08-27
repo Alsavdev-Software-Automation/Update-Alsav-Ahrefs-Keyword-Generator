@@ -4,3 +4,5 @@
   * Initial version
 * 2025-8-27 -- 1.0.1
   * Fix Country Picker
+* 2025-8-27 -- 1.0.2
+  * Country pick with search
