@@ -6,3 +6,6 @@
   * Fix Country Picker
 * 2025-8-27 -- 1.0.2
   * Country pick with search
+* 2025-8-28 -- 1.0.3
+  * Fix selector bug
+ 
